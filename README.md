@@ -1,3 +1,3 @@
-# A company System Time Register
+# TIMEKONTROL.TK
 
-A project to helps you to log your daily registred time.
+A project to help you control your task time and register your hours.
